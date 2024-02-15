@@ -1,1 +1,1 @@
-run **npm -i** to install node modules at root level
+run **npm i** to install node modules at root level
